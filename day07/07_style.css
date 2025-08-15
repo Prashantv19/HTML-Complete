@@ -1,0 +1,17 @@
+p{
+    background-color: #e5bebe;
+    font-family: Arial, sans-serif;
+    color: #ff0c30;
+}
+a{
+    background-color: rgb(231, 190, 12);
+    color: #0000ff;
+    text-decoration: none;
+}
+div{
+    background-color: #fbef15;
+    
+}
+span{ background-color: aqua;
+    color: #ff0000;
+}

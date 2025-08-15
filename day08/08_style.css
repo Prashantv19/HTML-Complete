@@ -1,0 +1,16 @@
+.red{
+    color: red;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-green{
+    background-color: rgb(83, 205, 83);
+}
+.blue{
+    color: blue;
+}
+#First{
+    background-color: rgb(40, 206, 228);
+    color: rgb(58, 16, 9);
+}
